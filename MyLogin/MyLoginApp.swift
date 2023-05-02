@@ -12,6 +12,9 @@ struct MyLoginApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            HStack{
+                Text("sarfaraz")
+            }
         }
     }
 }

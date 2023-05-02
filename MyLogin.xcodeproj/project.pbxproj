@@ -15,6 +15,7 @@
 		7F85B9A529D5FFED008BAED0 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F85B9A229D5FFED008BAED0 /* SignUpView.swift */; };
 		7F85B9A629D5FFED008BAED0 /* Log In.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F85B9A329D5FFED008BAED0 /* Log In.swift */; };
 		7F85B9AA29D60E47008BAED0 /* ColorExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F85B9A929D60E47008BAED0 /* ColorExt.swift */; };
+		7FF4FA932A01717700BFEABF /* secounnd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF4FA922A01717700BFEABF /* secounnd.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		7F85B9A229D5FFED008BAED0 /* SignUpView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignUpView.swift; path = ../../LoginScreen/SignUpView.swift; sourceTree = "<group>"; };
 		7F85B9A329D5FFED008BAED0 /* Log In.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Log In.swift"; path = "../../LoginScreen/Log In.swift"; sourceTree = "<group>"; };
 		7F85B9A929D60E47008BAED0 /* ColorExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExt.swift; sourceTree = "<group>"; };
+		7FF4FA922A01717700BFEABF /* secounnd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secounnd.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				7F85B99729D5FF55008BAED0 /* Assets.xcassets */,
 				7F85B99929D5FF55008BAED0 /* Preview Content */,
 				7F85B9A929D60E47008BAED0 /* ColorExt.swift */,
+				7FF4FA922A01717700BFEABF /* secounnd.swift */,
 			);
 			path = MyLogin;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				7F85B99629D5FF52008BAED0 /* ContentView.swift in Sources */,
 				7F85B99429D5FF52008BAED0 /* MyLoginApp.swift in Sources */,
 				7F85B9A629D5FFED008BAED0 /* Log In.swift in Sources */,
+				7FF4FA932A01717700BFEABF /* secounnd.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
