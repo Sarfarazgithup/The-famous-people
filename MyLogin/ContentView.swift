@@ -39,7 +39,7 @@ struct ContentView: View {
             self.isActive = true
         }
         
-    }
+    }   
 }
 
 
